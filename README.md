@@ -46,10 +46,10 @@ pip install -r requirements.txt
 ## Usage
 
 1. Connect your Arduino board to your computer.
-2. Upload the `Arduino_I2C_LCD.ino` sketch to your Arduino using the Arduino IDE.
-3. Run the Python script: `python lcd_demo.py`
+2. Upload the `LCD_I2C_Firmata.ino` sketch to your Arduino using the Arduino IDE.
+3. Run the Python script: `python main.py`
 
-Feel free to modify the `lcd_demo.py` script to suit your needs and add more commands if necessary.
+Feel free to modify the `main.py` script to suit your needs and add more commands if necessary.
 
 ## Contributing
 
